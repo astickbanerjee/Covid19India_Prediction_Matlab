@@ -7,7 +7,7 @@ This is a simple matlab file to predict the transmission of COVID19 in India for
 
 #### Patient data :
 
-- Unofficial sources of Official Data:'https://api.rootnet.in/covid19-in/stats/history'
+- Unofficial sources of Official Data: https://api.rootnet.in/covid19-in/stats/history
 
 
 Credits : [https://github.com/amodm/api-covid19-in](https://github.com/amodm/api-covid19-in)
